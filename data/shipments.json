@@ -1,0 +1,98 @@
+[
+  {
+    "shipment_id": "S-201",
+    "supplier": "Acme Components",
+    "part": "Bearings",
+    "route": "SHA-MAA",
+    "status": "In transit",
+    "original_eta": "2026-10-30",
+    "current_eta": "2026-10-30",
+    "order_value_usd": 22000,
+    "stock_cover_days": 14,
+    "contract_id": "C-ACME-2025"
+  },
+  {
+    "shipment_id": "S-202",
+    "supplier": "Nova Electronics",
+    "part": "Controllers",
+    "route": "SZX-BOM",
+    "status": "In transit",
+    "original_eta": "2026-11-04",
+    "current_eta": "2026-11-05",
+    "order_value_usd": 61000,
+    "stock_cover_days": 9,
+    "contract_id": "C-NOVA-2025"
+  },
+  {
+    "shipment_id": "S-203",
+    "supplier": "Acme Components",
+    "part": "Gaskets",
+    "route": "SIN-COK",
+    "status": "At port",
+    "original_eta": "2026-10-28",
+    "current_eta": "2026-10-28",
+    "order_value_usd": 9500,
+    "stock_cover_days": 20,
+    "contract_id": "C-ACME-2025"
+  },
+  {
+    "shipment_id": "S-204",
+    "supplier": "Acme Components",
+    "part": "Steel shafts",
+    "route": "SHA-MAA",
+    "status": "In transit",
+    "original_eta": "2026-11-02",
+    "current_eta": "2026-11-06",
+    "order_value_usd": 48000,
+    "stock_cover_days": 6,
+    "contract_id": "C-ACME-2025"
+  },
+  {
+    "shipment_id": "S-205",
+    "supplier": "Nova Electronics",
+    "part": "Sensors",
+    "route": "ROT-BOM",
+    "status": "Delayed",
+    "original_eta": "2026-11-01",
+    "current_eta": "2026-11-09",
+    "order_value_usd": 73000,
+    "stock_cover_days": 4,
+    "contract_id": "C-NOVA-2025"
+  },
+  {
+    "shipment_id": "S-206",
+    "supplier": "Acme Components",
+    "part": "Fasteners",
+    "route": "SIN-COK",
+    "status": "In transit",
+    "original_eta": "2026-11-08",
+    "current_eta": "2026-11-08",
+    "order_value_usd": 7000,
+    "stock_cover_days": 25,
+    "contract_id": "C-ACME-2025"
+  },
+  {
+    "shipment_id": "S-207",
+    "supplier": "Nova Electronics",
+    "part": "Batteries",
+    "route": "SZX-BOM",
+    "status": "Customs hold",
+    "original_eta": "2026-11-03",
+    "current_eta": "2026-11-07",
+    "order_value_usd": 55000,
+    "stock_cover_days": 5,
+    "contract_id": "C-NOVA-2025"
+  },
+  {
+    "shipment_id": "S-208",
+    "supplier": "Acme Components",
+    "part": "Valves",
+    "route": "ROT-BOM",
+    "status": "In transit",
+    "original_eta": "2026-11-12",
+    "current_eta": "2026-11-12",
+    "order_value_usd": 31000,
+    "stock_cover_days": 18,
+    "contract_id": "C-ACME-2025"
+  }
+]

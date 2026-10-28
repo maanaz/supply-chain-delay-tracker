@@ -1,0 +1,13 @@
+CONTRACT C-ACME-2025: Supply Agreement with Acme Components
+
+Clause 4.1 Lead Time
+Acme Components commits to a standard lead time of 21 days from order confirmation to delivery at the buyer's factory.
+
+Clause 7.2 Late Delivery Penalty
+If delivery is later than 3 grace days past the agreed delivery date, the supplier pays 2 percent of the order value for each additional day late. The total penalty is capped at 20 percent of the order value.
+
+Clause 7.4 Expedited Shipping
+If a delay exceeds 5 days, the supplier bears the cost of air freight for up to 30 percent of the order quantity, at the buyer's request.
+
+Clause 9.1 Force Majeure
+Delays caused by officially declared weather events exempt the supplier from the Clause 7.2 penalty only if the supplier notifies the buyer in writing within 48 hours of the event.

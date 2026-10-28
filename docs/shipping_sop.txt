@@ -1,0 +1,10 @@
+SHIPPING SOP: Logistics Operating Procedures
+
+SOP-LOG-04 Delay Escalation
+Level 1 (1 to 2 days late): log the delay in the tracker. Level 2 (3 to 5 days late): notify the production planner and check stock cover. Level 3 (more than 5 days late, or stock cover is shorter than the expected delay): escalate to the logistics manager the same day.
+
+SOP-LOG-07 Demurrage Control
+Each container has 4 free days at the destination port. After that, demurrage is charged at 150 USD per container per day. Container pickup must be booked within 24 hours of vessel arrival.
+
+SOP-LOG-09 Supplier Contact
+For any Level 2 or Level 3 delay, request a written status update from the supplier within 24 hours.

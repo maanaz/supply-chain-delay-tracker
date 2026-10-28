@@ -1,0 +1,26 @@
+{
+  "SHA-MAA": {
+    "name": "Shanghai to Chennai",
+    "port_congestion_days": 5,
+    "weather_alert": "Typhoon warning in South China Sea",
+    "severity": "high"
+  },
+  "SZX-BOM": {
+    "name": "Shenzhen to Mumbai",
+    "port_congestion_days": 2,
+    "weather_alert": "None",
+    "severity": "low"
+  },
+  "SIN-COK": {
+    "name": "Singapore to Kochi",
+    "port_congestion_days": 1,
+    "weather_alert": "Monsoon swell, minor",
+    "severity": "low"
+  },
+  "ROT-BOM": {
+    "name": "Rotterdam to Mumbai",
+    "port_congestion_days": 6,
+    "weather_alert": "Red Sea rerouting adds transit time",
+    "severity": "high"
+  }
+}

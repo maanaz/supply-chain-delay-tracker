@@ -1,0 +1,10 @@
+DELAY HANDLING PLAYBOOK
+
+PB-01 Risk Bands
+If predicted delay risk is below 30 percent, keep monitoring. If risk is 30 to 70 percent, alert the planner and ask the supplier for an update. If risk is above 70 percent, create an alert and evaluate expedited shipping.
+
+PB-02 Stock Cover Rule
+If stock cover days is less than the expected delay days plus 2 days of buffer, trigger a reorder from the backup supplier or approve air freight for part of the order.
+
+PB-03 Communication
+Always record the reason for any alert or reorder. Inform the supplier in writing and cite the relevant contract clause.

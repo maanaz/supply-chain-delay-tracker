@@ -1,0 +1,10 @@
+CONTRACT C-NOVA-2025: Supply Agreement with Nova Electronics
+
+Clause 6.1 Late Delivery Penalty
+If delivery is later than 2 grace days past the agreed date, the supplier pays 1.5 percent of the order value per day late, capped at 15 percent of the order value.
+
+Clause 6.3 Cancellation Right
+If delay exceeds 14 days, the buyer may cancel the order without penalty and receive a full refund of any advance payment.
+
+Clause 8.2 Alternate Sourcing
+If delay exceeds 10 days, the buyer may source the same parts from an alternate supplier without breaching exclusivity.

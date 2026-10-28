@@ -1,0 +1,8 @@
+mcp
+chromadb
+google-genai
+streamlit
+scikit-learn
+pandas
+joblib
+python-dotenv
